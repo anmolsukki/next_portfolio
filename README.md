@@ -1,11 +1,9 @@
 ### Next Js Portfolio
 
-For create own css
+1. For Deployment
 
-install package
+install Package
 
 ```
-npm i @zeit/next-css
+sudo npm i -g now
 ```
-
-then create `next-config.js` in root directory.
